@@ -1,0 +1,30 @@
+.btn{
+  margin : 10px
+}
+.center{
+  display: flex ;
+  flex-direction:column;
+  text-align: center;
+  justify-content: center;
+  margin-top:200px
+}
+body {
+ background-image: url("cf.jpg");
+background-repeat: no-repeat;
+
+}
+.label{
+font-size: 25px;
+font-family: Archivo ;
+color: #ffff
+}
+h2{
+  color: #FFD5AA
+}
+
+h1{
+  color: #FFD5AA
+}
+#list{
+  color: white;
+}
